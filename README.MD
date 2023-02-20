@@ -28,6 +28,7 @@ The following environment variables need to be set for the application to functi
 * `DB_USER`: The username used to access the database
 * `DB_PASSWORD`: The password used to access the database
 
+
 **Note that if using Redis `DB_NAME` and `DB_USER` should **not** be set. In addition, Redis will only store the most recent weather data.** 
 
 ## Local Setup
