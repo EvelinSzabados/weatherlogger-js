@@ -5,7 +5,7 @@ This is a small Node based weather data logging application, the purpose of whic
 ## Supported Databases
 To be able to test multiple databases on Kinsta you can use environment variables to change the database used by the application (more on specific setup below). The following databases are supported: 
 
-* MongoDB
+
 * MySQL
 * MariaDB
 * PostreSQL
