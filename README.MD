@@ -48,4 +48,4 @@ Once everything is set up correctly you should be able to issue the following co
 * `npm start`: Launches a web server you can visit to view the last 100 weather data points
 
 
-Head on over to the [Kinsta beta documentation](https://cuddly-succotash-5bf2b653.pages.github.io/) to learn how to deploy this service. 
+Head over to the [Kinsta beta documentation](https://cuddly-succotash-5bf2b653.pages.github.io/) to learn how to deploy this service. 
