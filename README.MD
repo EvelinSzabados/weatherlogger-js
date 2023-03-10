@@ -49,4 +49,3 @@ Once everything is set up correctly you should be able to issue the following co
 
 
 Head over to the [Kinsta beta documentation](https://cuddly-succotash-5bf2b653.pages.github.io/) to learn how to deploy this service. 
-test test
