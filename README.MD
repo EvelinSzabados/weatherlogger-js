@@ -10,6 +10,7 @@ To be able to test multiple databases on Kinsta you can use environment variable
 * MariaDB
 * PostreSQL
 * Redis
+* MongoDb
 
 ## Getting an OpenWeatherMap Key
 The app will require an API key from [OpenWeatherMap](https://home.openweathermap.org). If you sign up you can grab an API key for free that should allow you to make 1,000 API calls a day. Once logged in you should be able to [create a key](https://home.openweathermap.org/api_keys) which you'll need to use in an environment variable (see below)...  
