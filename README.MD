@@ -47,6 +47,5 @@ Once everything is set up correctly you should be able to issue the following co
 * `npm run listWeather`: Lists the latest 100 entries in the database
 * `npm run weatherLogger`: Starts a cronjob that - while running - will retreive and log the weather data every 3 minutes 
 * `npm start`: Launches a web server you can visit to view the last 100 weather data points
-
-test test test
+t test
 Head over to the [Kinsta beta documentation](https://cuddly-succotash-5bf2b653.pages.github.io/) to learn how to deploy this service. 
