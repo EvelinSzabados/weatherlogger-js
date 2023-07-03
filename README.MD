@@ -3,7 +3,7 @@
 This is a small Node based weather data logging application, the purpose of which is to test deployment flows for Kinsta Application Hosting. Once running, the application will log the temperature and wind speed in a given location once every minute and allow you to view the last 100 entries on a web server. 
 
 ## Supported Databases
-To be able to test multiple databases on Kinsta you can use environment variables to change the database used by the application (more on specific setup below). The following databases are supported: 
+To be able to test multiple databases on Kinsta you can use environment variables to change the database used by the application (more on specific setup belg3rw3rgv3wow). The following databases are supported: 
 
 
 * MySQL
