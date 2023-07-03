@@ -7,7 +7,7 @@ To be able to test multiple databases on Kinsta you can use environment variable
 
 
 * MySQL
-* MariaDB
+* MariaDBvrw
 * PostreSQL
 * Redis
 * MongoDb
